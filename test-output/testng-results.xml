@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-05T19:11:17 BDT" name="Default suite" finished-at="2021-11-05T19:12:38 BDT" duration-ms="81120">
+    <groups>
+    </groups>
+    <test started-at="2021-11-05T19:11:17 BDT" name="Default test" finished-at="2021-11-05T19:12:38 BDT" duration-ms="81120">
+      <class name="com.test.YouTube.YoutubeTest">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.test.YouTube.YoutubeTest@97e93f1]" started-at="2021-11-05T19:11:15 BDT" name="setDriver" finished-at="2021-11-05T19:11:17 BDT" duration-ms="1775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="play()[pri:0, instance:com.test.YouTube.YoutubeTest@97e93f1]" started-at="2021-11-05T19:11:17 BDT" name="play" finished-at="2021-11-05T19:12:38 BDT" duration-ms="81089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- play -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.test.YouTube.YoutubeTest@97e93f1]" started-at="2021-11-05T19:12:38 BDT" name="close" finished-at="2021-11-05T19:12:38 BDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.test.YouTube.YoutubeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
